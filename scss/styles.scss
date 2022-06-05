@@ -1,0 +1,13 @@
+// Import scss files here
+// Reset
+@import "../scss/base/reset";
+
+//Fonts
+@import "../scss/base/typo";
+
+//Variables
+@import "../scss/utilities/variables";
+
+//Layout
+@import "../scss/layout/main";
+@import "../scss/layout/footer";
