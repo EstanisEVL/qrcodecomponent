@@ -20,7 +20,7 @@ body {
     align-items: center; }
     .main .card {
       margin-top: 100px;
-      margin-bottom: 100px;
+      margin-bottom: 150px;
       max-width: 85%;
       border-radius: 20px;
       display: flex;
@@ -28,9 +28,45 @@ body {
       justify-content: center;
       align-items: center;
       background-color: white;
-      gap: 25px; }
+      gap: 25px;
+      box-shadow: 5px #7b879d; }
       .main .card img {
         margin-top: 15px;
+        max-width: 90%;
+        border-radius: 10px; }
+      .main .card h1 {
+        max-width: 80%;
+        color: #1f3251;
+        font-size: 20px;
+        text-align: center; }
+      .main .card p {
+        max-width: 80%;
+        padding-bottom: 50px;
+        color: #7b879d;
+        font-size: 15px;
+        text-align: center; } }
+
+@media screen and (min-width: 375px) {
+  .main {
+    background-color: #d6e2f0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center; }
+    .main .card {
+      width: 300px;
+      margin-top: 150px;
+      margin-bottom: 250px;
+      border-radius: 25px;
+      display: flex;
+      flex-flow: column nowrap;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      gap: 25px;
+      box-shadow: 5px #7b879d; }
+      .main .card img {
+        margin-top: 20px;
         max-width: 90%;
         border-radius: 10px; }
       .main .card h1 {
@@ -50,4 +86,5 @@ body {
   font-size: 11px;
   text-align: center; }
   .attribution a {
-    color: #3e52a3; }
+    color: #3e52a3;
+    text-decoration: none; }
