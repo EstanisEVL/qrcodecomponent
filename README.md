@@ -28,8 +28,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EstanisEVL/qrcodecomponent)
-- Live Site URL: [Add live site URL here](https://estanisevl.github.io/qrcodecomponent/)
+- Solution URL: [link](https://github.com/EstanisEVL/qrcodecomponent)
+- Live Site URL: [link](https://estanisevl.github.io/qrcodecomponent/)
 
 ## My process
 
