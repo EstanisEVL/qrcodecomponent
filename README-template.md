@@ -11,79 +11,46 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshots
 
 Desktop:
+
 ![](Desktop-FrontendMentorQRcodecomponent.png)
 
 Mobile:
+
 ![](Mobile-FrontendMentorQRcodecomponent.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/EstanisEVL/qrcodecomponent)
+- Live Site URL: [Add live site URL here](https://estanisevl.github.io/qrcodecomponent/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
 - SASS
+- GIT
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned to build a QR code component from scratch and to get it looking as close to the design provided as possible, using: HTML5 to structure the project, CSS3 to stilize it with custom properties and flexbox to set the layout. I also implemented a mobile-first workflow and I used SASS to compile my .css file. Finally I used GIT to publish the project on my [Github repository](https://github.com/EstanisEVL).
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+I want to focus on my code eficiency, keeping it as clean and short as possible without losing any of its funcionalities. I also want to keep improving my skills with SASS to organize my projects and make them easy to pick up to anyone who wants to work on them.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Github - [Estanislao Elias Varela Lucius](https://github.com/EstanisEVL)
+- Frontend Mentor - [@EstanisEVL](https://www.frontendmentor.io/profile/EstanisEVL)
